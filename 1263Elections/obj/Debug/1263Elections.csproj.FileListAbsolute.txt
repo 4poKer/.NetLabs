@@ -1,0 +1,6 @@
+c:\users\arseni\documents\visual studio 2013\Projects\1585Penguins\1263Elections\bin\Debug\1263Elections.exe.config
+c:\users\arseni\documents\visual studio 2013\Projects\1585Penguins\1263Elections\bin\Debug\1263Elections.exe
+c:\users\arseni\documents\visual studio 2013\Projects\1585Penguins\1263Elections\bin\Debug\1263Elections.pdb
+c:\users\arseni\documents\visual studio 2013\Projects\1585Penguins\1263Elections\obj\Debug\1263Elections.exe
+c:\users\arseni\documents\visual studio 2013\Projects\1585Penguins\1263Elections\obj\Debug\1263Elections.pdb
+c:\users\arseni\documents\visual studio 2013\Projects\1585Penguins\1263Elections\obj\Debug\1263Elections.csprojResolveAssemblyReference.cache

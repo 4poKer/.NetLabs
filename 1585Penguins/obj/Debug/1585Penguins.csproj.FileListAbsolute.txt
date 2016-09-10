@@ -1,0 +1,8 @@
+c:\users\arseni\documents\visual studio 2013\Projects\1585Penguins\1585Penguins\bin\Debug\1585Penguins.exe.config
+c:\users\arseni\documents\visual studio 2013\Projects\1585Penguins\1585Penguins\bin\Debug\1585Penguins.exe
+c:\users\arseni\documents\visual studio 2013\Projects\1585Penguins\1585Penguins\bin\Debug\1585Penguins.pdb
+c:\users\arseni\documents\visual studio 2013\Projects\1585Penguins\1585Penguins\obj\Debug\1585Penguins.exe
+c:\users\arseni\documents\visual studio 2013\Projects\1585Penguins\1585Penguins\obj\Debug\1585Penguins.pdb
+C:\Users\Arseni\Desktop\Lab1\1585Penguins\bin\Debug\1585Penguins.exe.config
+C:\Users\Arseni\Desktop\Lab1\1585Penguins\obj\Debug\1585Penguins.exe
+C:\Users\Arseni\Desktop\Lab1\1585Penguins\obj\Debug\1585Penguins.pdb

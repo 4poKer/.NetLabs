@@ -1,0 +1,6 @@
+c:\users\arseni\documents\visual studio 2013\Projects\1585Penguins\1567SMS\bin\Debug\1567SMS.exe.config
+c:\users\arseni\documents\visual studio 2013\Projects\1585Penguins\1567SMS\bin\Debug\1567SMS.exe
+c:\users\arseni\documents\visual studio 2013\Projects\1585Penguins\1567SMS\bin\Debug\1567SMS.pdb
+c:\users\arseni\documents\visual studio 2013\Projects\1585Penguins\1567SMS\obj\Debug\1567SMS.csprojResolveAssemblyReference.cache
+c:\users\arseni\documents\visual studio 2013\Projects\1585Penguins\1567SMS\obj\Debug\1567SMS.exe
+c:\users\arseni\documents\visual studio 2013\Projects\1585Penguins\1567SMS\obj\Debug\1567SMS.pdb
